@@ -5,10 +5,15 @@ This is my final project for my LHL Diploma program.
 The primary objective of this project is to develop a predictive ML model that will assist in determing the various features affecting
 churn in the telecommunication industry using the available dataset. This model can therefore be applied to similar situtions in the future.
 
+# Project Overview:
+1. Churn refers to customers leaving a telecom_provider or discontinuing their telecommunication services.
+2. Telecommunication Churn Analysis is a process of studying customer behavior in the telecommunication industry to predict and understand customer attrition or churn.
+3. Telecommunication Churn Modeling aims to identify patterns and factors that contribute to customer churn, enabling telecom_provider to take proactive measures to retain customers and improve customer satisfaction.
+
 # Data
 Data from Kaggle.com, obtained under a free public license, is accessible in the "Telecom churn.csv" directory of this repository.
 
-# Conclusion
+# Result & Conclusion
 The key factors that significantly influence the deactivation of customers telecom facilities are data_used, pincode, estimated_salary, date_of_registration, call_made and age.
 
 High Training and Testing Accuracies: Both the model achieved a moderate accuracy score the training data, indicating a good fit to the training instances. Additionally, the model's accuracy score over 50% on the testing data suggests its ability to generalize well to unseen instances.
